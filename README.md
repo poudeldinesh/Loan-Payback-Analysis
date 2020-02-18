@@ -18,11 +18,11 @@ The main objective of this project is to prepare a dataset that has necessary va
 3. Credit Card Dataset
 4. Previous Loan Application Dataset
 
-#### Instruction to Run Code
+#### Instruction to Run Code:
 1. Download four Datasets from https://drive.google.com/drive/folders/1ni6ABr423eddRWm9njLzkCe3Jffdt5rO?usp=sharing
 2. Value of variable “path” should be changed to location where all 4 datasets are downloaded.
 3. Import libraries: pandas, numpy, os, scipy.stats & re
 4. Run the "Loan_Payback_Analysis_code" on Python IDE.
 
-#### Output
+#### Output:
 Clean merged dataset with choosen variables that can be used with Machine Learning techniques to predict the probability of person paying back the loan.
